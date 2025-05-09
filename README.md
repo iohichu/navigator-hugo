@@ -63,7 +63,7 @@ git clone git@github.com:gethugothemes/navigator-hugo.git
 # cd in the project directory
 $ cd navigator-hugo/exampleSite/
 
-# Start local dev server
+# Start local dev  server
 $ hugo server --themesDir ../..
 ```
 
